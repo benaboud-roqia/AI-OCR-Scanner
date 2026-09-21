@@ -1,0 +1,7 @@
+{
+  "name": "AI OCR Scanner",
+  "description": "Scanner OCR intelligent avec extraction de texte IA et export rapide au format PDF ou texte brut.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
